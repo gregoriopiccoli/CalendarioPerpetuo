@@ -4,4 +4,7 @@ dei giorni mostra tutti i giorni della settimana di tutto l'anno.
 
 Se la tacca dell'anno è rossa l'anno è bisestile.
 
+Gli anni bisestili usano la parte rossa del reogolo dei giorni per i giorni prima del 28 Febbraio.
+
+
 
